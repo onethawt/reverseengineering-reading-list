@@ -3,6 +3,8 @@ If any of the links are down and you can't retrieve them on [archive.org](http:/
 
 ## Data Structures
 * [Automatic Reverse Engineering of Data Structures from Binary Execution](https://www.isoc.org/isoc/conferences/ndss/10/pdf/23.pdf)
+* [Digging For Data Structures](http://ben.ransford.org/srg/papers/cozzie--digging.pdf)
+* [Howard: a dynamic excavator for reverse engineering data structures](http://www.isoc.org/isoc/conferences/ndss/11/pdf/5_1.pdf)
 
 ## Windows
 ### Driver Signature Enforcement
