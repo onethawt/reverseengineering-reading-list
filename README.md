@@ -1,6 +1,9 @@
 # Reverse Engineering Reading List
 If any of the links are down and you can't retrieve them on [archive.org](http://archive.org), [contact me](http://one.thawt.io/contact/) and I can give you a copy of the document.
 
+## Data Structures
+* [Automatic Reverse Engineering of Data Structures from Binary Execution](https://www.isoc.org/isoc/conferences/ndss/10/pdf/23.pdf)
+
 ## Windows
 ### Driver Signature Enforcement
 * [Defeating Windows Driver Signature Enforcement #1: default drivers](http://j00ru.vexillium.org/?p=1169)
