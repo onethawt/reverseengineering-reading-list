@@ -4,7 +4,8 @@ If any of the links are down and you can't retrieve them on [archive.org](http:/
 ## Android
 * [Offensive & Defensive Android Reverse Engineering](https://github.com/rednaga/training/tree/master/DEFCON23)
 
-## Assembly
+## Assembly / Disassembly
+* [Analyzing Uncommon Firmware](http://blog.ptsecurity.com/2015/07/best-reverser-write-up-analyzing.html)
 * [UROBOROS - Reassembling Disassembling](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/wang-shuai) -  a tool that can disassemble executables to the extent that the generated code can be assembled back to working binaries without manual effort.
 
 ## Data Structures
