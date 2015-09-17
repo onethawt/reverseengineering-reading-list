@@ -4,6 +4,9 @@ If any of the links are down and you can't retrieve them on [archive.org](http:/
 ## Android
 * [Offensive & Defensive Android Reverse Engineering](https://github.com/rednaga/training/tree/master/DEFCON23)
 
+## Assembly
+* [UROBOROS - Reassembling Disassembling](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/wang-shuai)
+
 ## Data Structures
 * [Automatic Reverse Engineering of Data Structures from Binary Execution](https://www.isoc.org/isoc/conferences/ndss/10/pdf/23.pdf) [PDF]
 * [Digging For Data Structures](http://ben.ransford.org/srg/papers/cozzie--digging.pdf) [PDF]
