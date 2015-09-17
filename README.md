@@ -21,3 +21,6 @@ If any of the links are down and you can't retrieve them on [archive.org](http:/
 * [Bypassing PatchGuard on Windows x64](http://www.uninformed.org/?v=3&a=3&t=txt)
 * [Disable PatchGuard Vista & Windows 7](http://fyyre.ivory-tower.de/projects/bootloader.txt)
 * [Disable PatchGuard Windows 8 & Windows 10](http://fyyre.ivory-tower.de/projects/bootloader_v2.txt)
+
+### Win32
+* [PInvoke.net](http://www.pinvoke.net/): PInvoke.net is primarily a wiki, allowing developers to find, edit and add PInvoke* signatures, user-defined types, and any other information related to calling Win32 and other unmanaged APIs from managed code (written in languages such as C# or VB.NET).
