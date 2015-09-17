@@ -16,6 +16,9 @@ If any of the links are down and you can't retrieve them on [archive.org](http:/
 ## Malware Analysis
 [Please refer to the additional document](malwareanalysis.md)
 
+## Obfuscation and Deobfuscation
+* [Context-Sensitive Analysis of Obfuscated x86 Executables](http://www.cacs.louisiana.edu/~arun/papers/2010-pepm-lakhotia.pdf) [PDF]
+
 ## Windows
 ### Driver Signature Enforcement
 * [Defeating Windows Driver Signature Enforcement #1: default drivers](http://j00ru.vexillium.org/?p=1169)
