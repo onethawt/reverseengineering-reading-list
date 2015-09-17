@@ -10,7 +10,9 @@ If any of the links are down and you can't retrieve them on [archive.org](http:/
 * [Howard: a dynamic excavator for reverse engineering data structures](http://www.isoc.org/isoc/conferences/ndss/11/pdf/5_1.pdf) [PDF]
 
 ## Exploitation
+* [Dismantling Megamos Crypto: Wirelessly Lockpicking a Vehicle Immobilizer](https://www.usenix.org/sites/default/files/sec15_supplement.pdf) [PDF]
 * [Remote Exploitation of an Unaltered Passenger Vehicle](http://illmatics.com/Remote%20Car%20Hacking.pdf) [PDF]
+
 
 ## Instruction Sets
 * [Intel® 64 and IA-32 Architectures Software Developer Manuals](http://www.intel.com/content/www/us/en/processors/architectures-software-developer-manuals.html): These manuals describe the architecture and programming environment of the Intel® 64 and IA-32 architectures.
