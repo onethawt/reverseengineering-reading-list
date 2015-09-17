@@ -2,9 +2,9 @@
 If any of the links are down and you can't retrieve them on [archive.org](http://archive.org), [contact me](http://one.thawt.io/contact/) and I can give you a copy of the document.
 
 ## Data Structures
-* [Automatic Reverse Engineering of Data Structures from Binary Execution - PDF](https://www.isoc.org/isoc/conferences/ndss/10/pdf/23.pdf)
-* [Digging For Data Structures - PDF](http://ben.ransford.org/srg/papers/cozzie--digging.pdf)
-* [Howard: a dynamic excavator for reverse engineering data structures - PDF](http://www.isoc.org/isoc/conferences/ndss/11/pdf/5_1.pdf)
+* [Automatic Reverse Engineering of Data Structures from Binary Execution](https://www.isoc.org/isoc/conferences/ndss/10/pdf/23.pdf) [PDF]
+* [Digging For Data Structures](http://ben.ransford.org/srg/papers/cozzie--digging.pdf) [PDF]
+* [Howard: a dynamic excavator for reverse engineering data structures](http://www.isoc.org/isoc/conferences/ndss/11/pdf/5_1.pdf) [PDF]
 
 ## Instruction Sets
 * [Intel® 64 and IA-32 Architectures Software Developer Manuals](http://www.intel.com/content/www/us/en/processors/architectures-software-developer-manuals.html): These manuals describe the architecture and programming environment of the Intel® 64 and IA-32 architectures.
