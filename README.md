@@ -7,8 +7,8 @@ If any of the links are down and you can't retrieve them on [archive.org](http:/
 * [Howard: a dynamic excavator for reverse engineering data structures - PDF](http://www.isoc.org/isoc/conferences/ndss/11/pdf/5_1.pdf)
 
 ## Instruction Sets
-[Intel® 64 and IA-32 Architectures Software Developer Manuals](http://www.intel.com/content/www/us/en/processors/architectures-software-developer-manuals.html): These manuals describe the architecture and programming environment of the Intel® 64 and IA-32 architectures.
-[X86 Opcode and Instruction Reference](http://ref.x86asm.net/): This reference is intended to be precise opcode and instruction set reference (including x86-64). Its principal aim is exact definition of instruction parameters and attributes.
+* [Intel® 64 and IA-32 Architectures Software Developer Manuals](http://www.intel.com/content/www/us/en/processors/architectures-software-developer-manuals.html): These manuals describe the architecture and programming environment of the Intel® 64 and IA-32 architectures.
+* [X86 Opcode and Instruction Reference](http://ref.x86asm.net/): This reference is intended to be precise opcode and instruction set reference (including x86-64). Its principal aim is exact definition of instruction parameters and attributes.
 
 ## Windows
 ### Driver Signature Enforcement
