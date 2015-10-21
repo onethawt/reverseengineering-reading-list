@@ -12,6 +12,7 @@ If any of the links are down and you can't retrieve them on [archive.org](http:/
 * [Automatic Reverse Engineering of Data Structures from Binary Execution](https://www.isoc.org/isoc/conferences/ndss/10/pdf/23.pdf) [PDF]
 * [Digging For Data Structures](http://ben.ransford.org/srg/papers/cozzie--digging.pdf) [PDF]
 * [Howard: a dynamic excavator for reverse engineering data structures](http://www.isoc.org/isoc/conferences/ndss/11/pdf/5_1.pdf) [PDF]
+* [MemPick: High-Level Data Structure Detection in C/C++ Binaries](http://www.cs.vu.nl/~herbertb/papers/mempick_wcre13.pdf) [PDF]
 
 ## Exploitation
 * [Automated Vulnerability Discovery Techniques](http://www.crisalis-project.eu/sites/crisalis-project.eu/files/crisalis_deliverable-D5.3.pdf) [PDF]
@@ -33,6 +34,9 @@ If any of the links are down and you can't retrieve them on [archive.org](http:/
 
 ## Obfuscation and Deobfuscation
 * [Context-Sensitive Analysis of Obfuscated x86 Executables](http://www.cacs.louisiana.edu/~arun/papers/2010-pepm-lakhotia.pdf) [PDF]
+
+## Unpacking
+* [The Art of Unpacking](https://www.blackhat.com/presentations/bh-usa-07/Yason/Whitepaper/bh-usa-07-yason-WP.pdf) [PDF]
 
 ## Windows
 ### Driver Signature Enforcement
