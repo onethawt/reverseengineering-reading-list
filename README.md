@@ -16,6 +16,7 @@ If any of the links are down and you can't retrieve them on [archive.org](http:/
 ## Exploitation
 * [Automated Vulnerability Discovery Techniques](http://www.crisalis-project.eu/sites/crisalis-project.eu/files/crisalis_deliverable-D5.3.pdf) [PDF]
 * [Dismantling Megamos Crypto: Wirelessly Lockpicking a Vehicle Immobilizer](https://www.usenix.org/sites/default/files/sec15_supplement.pdf) [PDF]
+* [Memory Graph Approach for Program Data Introspection and Modification](http://software.imdea.org/~juanca/papers/sigpath_esorics14.pdf) [PDF]
 * [Remote Exploitation of an Unaltered Passenger Vehicle](http://illmatics.com/Remote%20Car%20Hacking.pdf) [PDF]
 
 
