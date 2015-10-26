@@ -6,6 +6,7 @@ If any of the links are down and you can't retrieve them on [archive.org](http:/
 
 ## Assembly / Disassembly
 * [Analyzing Uncommon Firmware](http://blog.ptsecurity.com/2015/07/best-reverser-write-up-analyzing.html)
+* [ARM v7 Disassembling](https://drive.google.com/file/d/0B0l-Qo3D3sAoMEhkcFBFVzRiNEk/view)
 * [UROBOROS - Reassembling Disassembling](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/wang-shuai) -  a tool that can disassemble executables to the extent that the generated code can be assembled back to working binaries without manual effort.
 
 ## Data Structures
@@ -13,6 +14,7 @@ If any of the links are down and you can't retrieve them on [archive.org](http:/
 * [Digging For Data Structures](http://ben.ransford.org/srg/papers/cozzie--digging.pdf) [PDF]
 * [Howard: a dynamic excavator for reverse engineering data structures](http://www.isoc.org/isoc/conferences/ndss/11/pdf/5_1.pdf) [PDF]
 * [MemPick: High-Level Data Structure Detection in C/C++ Binaries](http://www.cs.vu.nl/~herbertb/papers/mempick_wcre13.pdf) [PDF]
+* [TIE: Principled Reverse Engineering of Types in Binary Programs](https://reverse.put.as/wp-content/uploads/2011/06/D1T2-Mark-Dowd-Tarjei-Mandt-iOS6-Security.pdf) [PDF]
 
 ## Exploitation
 * [Automated Vulnerability Discovery Techniques](http://www.crisalis-project.eu/sites/crisalis-project.eu/files/crisalis_deliverable-D5.3.pdf) [PDF]
@@ -27,13 +29,21 @@ If any of the links are down and you can't retrieve them on [archive.org](http:/
 
 ## Mac and iOS
 * [iOS App Reverse Engineering](https://github.com/iosre/iOSAppReverseEngineering): iOS App Reverse Engineering is the world's 1st book of very detailed iOS App reverse engineering skills
+* [iOS Kernel Security](https://reverse.put.as/wp-content/uploads/2011/06/D1T2-Mark-Dowd-Tarjei-Mandt-iOS6-Security.pdf) [PDF]
+* [Jailbreaking Techniques](https://reverse.put.as/wp-content/uploads/2011/06/pod2g-jailbreak-techniques-wwjc-2012.pdf) [PDF]
 * [Reversing iOS Apps: A Practical Approach](https://s3.amazonaws.com/s3.synack.com/T2_reversingIOSApps.pdf) [PDF]
 
 ## Malware Analysis
 [Please refer to the additional document](malwareanalysis.md)
 
+## Network
+[Reverse Engineering of Protocols from Network Traces](http://www.di.fc.ul.pt/~nuno/PAPERS/WCRE11.pdf) [PDF]
+
 ## Obfuscation and Deobfuscation
 * [Context-Sensitive Analysis of Obfuscated x86 Executables](http://www.cacs.louisiana.edu/~arun/papers/2010-pepm-lakhotia.pdf) [PDF]
+
+## Tools
+* [Genetic Programming for Reverse Engineering](https://www.cs.virginia.edu/~weimer/p/weimer-wcre2013-re-preprint.pdf)
 
 ## Unpacking
 * [The Art of Unpacking](https://www.blackhat.com/presentations/bh-usa-07/Yason/Whitepaper/bh-usa-07-yason-WP.pdf) [PDF]
