@@ -41,9 +41,11 @@ If any of the links are down and you can't retrieve them on [archive.org](http:/
 
 ## Obfuscation and Deobfuscation
 * [Context-Sensitive Analysis of Obfuscated x86 Executables](http://www.cacs.louisiana.edu/~arun/papers/2010-pepm-lakhotia.pdf) [PDF]
+* [Advanced JS Deobfuscation Via AST and Partial Evaluation](http://blog.mindedsecurity.com/2015/10/advanced-js-deobfuscation-via-ast-and.html)
 
 ## Tools
 * [Genetic Programming for Reverse Engineering](https://www.cs.virginia.edu/~weimer/p/weimer-wcre2013-re-preprint.pdf)
+* [IR Transformation Synthesis for Assembly Instructions](https://speakerdeck.com/snf/ir-transformation-synthesis-for-assembly-instructions)
 
 ## Unpacking
 * [The Art of Unpacking](https://www.blackhat.com/presentations/bh-usa-07/Yason/Whitepaper/bh-usa-07-yason-WP.pdf) [PDF]
@@ -54,6 +56,10 @@ If any of the links are down and you can't retrieve them on [archive.org](http:/
 * [Defeating Windows Driver Signature Enforcement #2: CSRSS and thread desktops](http://j00ru.vexillium.org/?p=1393)
 * [Defeating Windows Driver Signature Enforcement #3: The Ultimate Encounter](http://j00ru.vexillium.org/?p=1455)
 * [DSEFix - Defeating x64 Driver Signature Enforcement: Using exploitable signed drivers - VirtualBox driver](http://www.kernelmode.info/forum/viewtopic.php?t=3322&f=11)
+
+
+### Other
+* [HyperV and vmbus internals](https://speakerdeck.com/snf/ir-transformation-synthesis-for-assembly-instructions)
 
 ### Patch Guard
 * [Bypassing PatchGuard on Windows x64](http://www.uninformed.org/?v=3&a=3&t=txt)
