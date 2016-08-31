@@ -1,6 +1,15 @@
 # Reverse Engineering Reading List
 If any of the links are down and you can't retrieve them on [archive.org](http://archive.org), [contact me](http://one.thawt.io/contact/) and I can give you a copy of the document.
 
+## Software & Libraries
+* [IDA Pro](https://www.hex-rays.com/products/ida/): The **KING** IDA is a Windows, Linux or Mac OS X hosted multi-processor disassembler and debugger that offers so many features it is hard to describe them all.
+
+* [Capstone](http://www.capstone-engine.org/): Capstone is a lightweight multi-platform, multi-architecture disassembly framework. Our target is to make Capstone the ultimate disassembly engine for binary analysis and reversing in the security community.
+
+* [Hopper](https://www.hopperapp.com/): Hopper is a reverse engineering tool for OS X and Linux, that lets you disassemble, and decompile your 32/64bits Intel Mac, Linux, Windows and iOS executables! Based on capstone, scriptable.
+
+* [Radare2](http://www.radare.org/): Portable reversing framework for disassembly, debugging, forensics, etc. Based on capstone, scriptable.
+
 ## Android
 * [Offensive & Defensive Android Reverse Engineering](https://github.com/rednaga/training/tree/master/DEFCON23)
 
@@ -45,7 +54,7 @@ If any of the links are down and you can't retrieve them on [archive.org](http:/
 * [Context-Sensitive Analysis of Obfuscated x86 Executables](http://www.cacs.louisiana.edu/~arun/papers/2010-pepm-lakhotia.pdf) [PDF]
 * [Advanced JS Deobfuscation Via AST and Partial Evaluation](http://blog.mindedsecurity.com/2015/10/advanced-js-deobfuscation-via-ast-and.html)
 
-## Tools
+## Research Tools
 * [Genetic Programming for Reverse Engineering](https://www.cs.virginia.edu/~weimer/p/weimer-wcre2013-re-preprint.pdf)
 * [IR Transformation Synthesis for Assembly Instructions](https://speakerdeck.com/snf/ir-transformation-synthesis-for-assembly-instructions)
 
