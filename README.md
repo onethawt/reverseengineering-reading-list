@@ -21,6 +21,7 @@ If any of the links are down and you can't retrieve them on [archive.org](http:/
 * [Reverse Engineering 101 - NYU: Poly 2010](https://prezi.com/a5tm-lf0879-/reverse-engineering-101-nyupoly-2010/): Intro to Reverse Engineering given at NYU:Poly on October 4th, 2010 by Aaron Portnoy and Peter Silberman. 
 * [Reverse Engineering 102 - NYU: Poly 2010](https://prezi.com/e5a2tumdqocj/reverse-engineering-102-nyupoly-2010/): Intro to Reverse Engineering (Day 2) given at NYU:Poly on October 11th, 2010 by Aaron Portnoy and Peter Silberman.
 * [CTF Field Guide](https://trailofbits.github.io/ctf/)
+
 ### Books
 * [Practical Malware Analysis](https://www.amazon.com/Practical-Malware-Analysis-Hands-Dissecting/dp/1593272901): Practical Malware Analysis will teach you the tools and techniques used by professional analysts. With this book as your guide, you'll be able to safely analyze, debug, and disassemble any malicious software that comes your way.
 * [Practical Reverse Engineering](https://www.amazon.com/Practical-Reverse-Engineering-Reversing-Obfuscation/dp/1118787315): The book covers x86, x64, and ARM (the first book to cover all three); Windows kernel-mode code rootkits and drivers; virtual machine protection techniques; and much more. Best of all, it offers a systematic approach to the material, with plenty of hands-on exercises and real-world examples.
