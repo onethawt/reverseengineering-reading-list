@@ -8,6 +8,8 @@ If any of the links are down and you can't retrieve them on [archive.org](http:/
 
 * [Hopper](https://www.hopperapp.com/): Hopper is a reverse engineering tool for OS X and Linux, that lets you disassemble, and decompile your 32/64bits Intel Mac, Linux, Windows and iOS executables! Based on capstone, scriptable.
 
+* [PeachPy](https://github.com/Maratyszcza/PeachPy): Portable efficient assembly code-generator in higher-level python.
+
 * [Radare2](http://www.radare.org/): Portable reversing framework for disassembly, debugging, forensics, etc. Based on capstone, scriptable.
 
 ## Android
