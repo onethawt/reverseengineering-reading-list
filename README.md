@@ -3,13 +3,9 @@ If any of the links are down and you can't retrieve them on [archive.org](http:/
 
 ## Software & Libraries
 * [IDA Pro](https://www.hex-rays.com/products/ida/): The **KING** IDA is a Windows, Linux or Mac OS X hosted multi-processor disassembler and debugger that offers so many features it is hard to describe them all.
-
 * [Capstone](http://www.capstone-engine.org/): Capstone is a lightweight multi-platform, multi-architecture disassembly framework. Our target is to make Capstone the ultimate disassembly engine for binary analysis and reversing in the security community.
-
 * [Hopper](https://www.hopperapp.com/): Hopper is a reverse engineering tool for OS X and Linux, that lets you disassemble, and decompile your 32/64bits Intel Mac, Linux, Windows and iOS executables! Based on capstone, scriptable.
-
 * [PeachPy](https://github.com/Maratyszcza/PeachPy): Portable efficient assembly code-generator in higher-level python.
-
 * [Radare2](http://www.radare.org/): Portable reversing framework for disassembly, debugging, forensics, etc. Based on capstone, scriptable.
 
 ## Android
@@ -19,6 +15,17 @@ If any of the links are down and you can't retrieve them on [archive.org](http:/
 * [Analyzing Uncommon Firmware](http://blog.ptsecurity.com/2015/07/best-reverser-write-up-analyzing.html)
 * [ARM v7 Disassembling](https://drive.google.com/file/d/0B0l-Qo3D3sAoMEhkcFBFVzRiNEk/view)
 * [UROBOROS - Reassembling Disassembling](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/wang-shuai) -  a tool that can disassemble executables to the extent that the generated code can be assembled back to working binaries without manual effort.
+
+## Basics
+* [Reverse Engineering 101 Speaker Presentation](https://vimeo.com/6764570)
+* [Reverse Engineering 101 - NYU: Poly 2010](https://prezi.com/a5tm-lf0879-/reverse-engineering-101-nyupoly-2010/): Intro to Reverse Engineering given at NYU:Poly on October 4th, 2010 by Aaron Portnoy and Peter Silberman. 
+* [Reverse Engineering 102 - NYU: Poly 2010](https://prezi.com/e5a2tumdqocj/reverse-engineering-102-nyupoly-2010/): Intro to Reverse Engineering (Day 2) given at NYU:Poly on October 11th, 2010 by Aaron Portnoy and Peter Silberman.
+* [CTF Field Guide](https://trailofbits.github.io/ctf/)
+### Books
+* [Practical Malware Analysis](https://www.amazon.com/Practical-Malware-Analysis-Hands-Dissecting/dp/1593272901): Practical Malware Analysis will teach you the tools and techniques used by professional analysts. With this book as your guide, you'll be able to safely analyze, debug, and disassemble any malicious software that comes your way.
+* [Practical Reverse Engineering](https://www.amazon.com/Practical-Reverse-Engineering-Reversing-Obfuscation/dp/1118787315): The book covers x86, x64, and ARM (the first book to cover all three); Windows kernel-mode code rootkits and drivers; virtual machine protection techniques; and much more. Best of all, it offers a systematic approach to the material, with plenty of hands-on exercises and real-world examples.
+* [Reversing: Secrets of Reverse Engineering](https://www.amazon.com/Reversing-Secrets-Engineering-Eldad-Eilam/dp/0764574817): Beginning with a basic primer on reverse engineering-including computer internals, operating systems, and assembly language-and then discussing the various applications of reverse engineering, this book provides readers with practical, in-depth techniques for software reverse engineering.
+* [The IDA Pro Book: The Unofficial Guide to the World's Most Popular Disassembler](https://www.amazon.com/IDA-Pro-Book-Unofficial-Disassembler/dp/1593272898): Hailed by the creator of IDA Pro as "profound, comprehensive, and accurate," the second edition of The IDA Pro Book covers everything from the very first steps to advanced automation techniques.
 
 ## Data Structures
 * [Automatic Reverse Engineering of Data Structures from Binary Execution](https://www.isoc.org/isoc/conferences/ndss/10/pdf/23.pdf) [PDF]
