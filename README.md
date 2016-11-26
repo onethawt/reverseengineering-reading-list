@@ -29,6 +29,9 @@ If any of the links are down and you can't retrieve them on [archive.org](http:/
 * [Reversing: Secrets of Reverse Engineering](https://www.amazon.com/Reversing-Secrets-Engineering-Eldad-Eilam/dp/0764574817): Beginning with a basic primer on reverse engineering-including computer internals, operating systems, and assembly language-and then discussing the various applications of reverse engineering, this book provides readers with practical, in-depth techniques for software reverse engineering.
 * [The IDA Pro Book: The Unofficial Guide to the World's Most Popular Disassembler](https://www.amazon.com/IDA-Pro-Book-Unofficial-Disassembler/dp/1593272898): Hailed by the creator of IDA Pro as "profound, comprehensive, and accurate," the second edition of The IDA Pro Book covers everything from the very first steps to advanced automation techniques.
 
+## Ebooks
+* [Reverse Engineering for Beginners](https://beginners.re/): Available in english and russian, this ebook is a good introduction for beginners. Numerous topics are touched : Oracle RDBMS, Itanium, copy-protection dongles, LD_PRELOAD, stack overflow, ELF, win32 PE file format, x86-64, critical sections, syscalls, TLS, position-independent code (PIC), profile-guided optimization, C++ STL, OpenMP, win32 SEH.
+
 ## Data Structures
 * [Automatic Reverse Engineering of Data Structures from Binary Execution](https://www.isoc.org/isoc/conferences/ndss/10/pdf/23.pdf) [PDF]
 * [Digging For Data Structures](http://ben.ransford.org/srg/papers/cozzie--digging.pdf) [PDF]
