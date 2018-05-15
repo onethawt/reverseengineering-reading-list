@@ -8,6 +8,7 @@ If any of the links are down and you can't retrieve them on [archive.org](http:/
 * [PeachPy](https://github.com/Maratyszcza/PeachPy): Portable efficient assembly code-generator in higher-level python.
 * [Radare2](http://www.radare.org/): Portable reversing framework for disassembly, debugging, forensics, etc. Based on capstone, scriptable.
 * [x64dbg](http://x64dbg.com/): Open source x64/x32 Windows debugger. Heir to Olly.
+* [re_lab](https://github.com/cboin/re_lab): A portable reverse engineering environment using docker.
 
 ## Android
 * [Offensive & Defensive Android Reverse Engineering](https://github.com/rednaga/training/tree/master/DEFCON23)
