@@ -3,6 +3,7 @@ If any of the links are down and you can't retrieve them on [archive.org](http:/
 
 ## Software & Libraries
 * [IDA Pro](https://www.hex-rays.com/products/ida/): The **KING** IDA is a Windows, Linux or Mac OS X hosted multi-processor disassembler and debugger that offers so many features it is hard to describe them all.
+* [Binary Ninja](https://binary.ninja/): A reverse engineering platform. It focuses on a clean and easy to use interface with a powerful multithreaded analysis built on a custom IL to quickly adapt to a variety of architectures, platforms, and compilers.
 * [Capstone](http://www.capstone-engine.org/): Capstone is a lightweight multi-platform, multi-architecture disassembly framework. Our target is to make Capstone the ultimate disassembly engine for binary analysis and reversing in the security community.
 * [Hopper](https://www.hopperapp.com/): Hopper is a reverse engineering tool for OS X and Linux, that lets you disassemble, and decompile your 32/64bits Intel Mac, Linux, Windows and iOS executables! Based on capstone, scriptable.
 * [PeachPy](https://github.com/Maratyszcza/PeachPy): Portable efficient assembly code-generator in higher-level python.
