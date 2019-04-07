@@ -67,7 +67,6 @@ If any of the links are down and you can't retrieve them on [archive.org](http:/
 [Reverse Engineering of Protocols from Network Traces](http://www.di.fc.ul.pt/~nuno/PAPERS/WCRE11.pdf) [PDF]
 
 ## Obfuscation and Deobfuscation
-* [Context-Sensitive Analysis of Obfuscated x86 Executables](http://www.cacs.louisiana.edu/~arun/papers/2010-pepm-lakhotia.pdf) [PDF]
 * [Advanced JS Deobfuscation Via AST and Partial Evaluation](http://blog.mindedsecurity.com/2015/10/advanced-js-deobfuscation-via-ast-and.html)
 
 ## Research Tools
